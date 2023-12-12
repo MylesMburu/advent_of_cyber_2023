@@ -13,6 +13,9 @@ Each challenge's write-up is organized in its own directory, containing detailed
 ## Challenges
 
 - [Challenge 1 - Chatbot, tell me, if you're really safe?](./challenge-1)
+- [Challenge 2 - O Data, All Ye Faithful](./challenge-2)
+- [Challenge 3 - Hydra is Coming to Town](./challenge-3)
+
 
 Feel free to explore the write-ups and use them as a reference to improve your cybersecurity knowledge and skills.
 
